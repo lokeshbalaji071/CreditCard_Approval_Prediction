@@ -6,5 +6,6 @@
 
 •	Implemented feature importance on the dataset using Random forest Model and implemented Randomized SearchCV for  hyper parameter tuning 
 
-•	Implemented various models such as XG Boost, Deep Neural Network, Decision Trees, KNN and optimized those models
+•	Implemented various models such as XG Boost, Deep Neural Network, Decision Trees, KNN and optimized those models to achieve an Accuracy score of 88% and F1 score of 93% on the dataset
+
 
