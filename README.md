@@ -1,4 +1,4 @@
-"# FinalProject_CreditCard_Approval_Prediction"
+# FinalProject_CreditCard_Approval_Prediction
 
 •	Developed a Machine learning model on Credit card approval by merging large datasets which helps us to determine whether the customer is eligible for sanctioning credit based on Accuracy and F1 Score metrics
 
